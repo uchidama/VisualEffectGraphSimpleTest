@@ -20,8 +20,5 @@ Unity Visual Effect Graph Simple Test
 # 参考
 [Visual Effect Graph 入門](https://qiita.com/tan-y/items/cd6fc58674d6f0c54d0b) 
 
-# ライセンス
-[MIT license](https://en.wikipedia.org/wiki/MIT_License).  
-まぁ、ライセンスとか言い出すようなもんか？  
-ってレベルの簡単サンプルだけどw  
-一応、書いときます。
+# License
+[Unlicense](https://unlicense.org/)
